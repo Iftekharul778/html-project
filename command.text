@@ -1,7 +1,15 @@
-#one time each project to start
+#1.one time each project to start
 git init
+#2. every timme to add
 git add .
+
+#every time commite
 git commit -m "first commit"
+
+#then 
 git branch -M main
+
+#sob reprository er jnne ekbar kore
 git remote add origin https://github.com/Iftekharul778/html-project.git
+
 git push -u origin main
